@@ -1,0 +1,64 @@
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\BLL.exe.config
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\BLL.exe
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\BLL.pdb
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\DAL.exe
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\DTO.dll
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\DAL.pdb
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\DAL.exe.config
+D:\APP\QuanLyNhanSu\BLL\bin\Debug\DTO.pdb
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.exe
+D:\APP\QuanLyNhanSu\BLL\obj\Debug\BLL.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\BLL.exe.config
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\BLL.exe
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\BLL.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\DAL.exe
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\DTO.dll
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\DAL.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\DAL.exe.config
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\bin\Debug\DTO.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.exe
+C:\Users\84393\Desktop\QuanLyNhanSu\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\BLL.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\BLL.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\DAL.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\DAL.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\BLL\obj\Debug\BLL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\BLL.exe.config
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\BLL.exe
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\BLL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\DAL.exe
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\DTO.dll
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\DAL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\DAL.exe.config
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\bin\Debug\DTO.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.exe
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\BLL\obj\Debug\BLL.pdb

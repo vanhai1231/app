@@ -1,0 +1,52 @@
+D:\APP\QuanLyNhanSu\DAL\bin\Debug\DAL.exe.config
+D:\APP\QuanLyNhanSu\DAL\bin\Debug\DAL.exe
+D:\APP\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+D:\APP\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+D:\APP\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.exe
+D:\APP\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\bin\Debug\DAL.exe.config
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\bin\Debug\DAL.exe
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.exe
+C:\Users\84393\Desktop\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\bin\Debug\DAL.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\bin\Debug\DAL.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.exe
+C:\Users\Admin\Documents\Zalo Received Files\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\bin\Debug\DAL.exe.config
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\bin\Debug\DAL.exe
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\bin\Debug\DAL.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\bin\Debug\DTO.dll
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\bin\Debug\DTO.pdb
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.exe
+C:\Users\PC\Documents\Zalo Received Files\QuanLyNhanSu (1)\DAL\obj\Debug\DAL.pdb
